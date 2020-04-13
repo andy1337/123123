@@ -1,1 +1,1 @@
-window.location.href = "https://i.ibb.co/HC8XCXT/image.png";
+alert("Hello, Im XSS please fix me (founded by A.K.");
